@@ -73,5 +73,4 @@ Data/*.db
 # Optional: node/npm if any front-end
 # ===========================
 node_modules/
-dist/
-wwwroot/dist/
+
