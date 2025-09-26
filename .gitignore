@@ -1,0 +1,77 @@
+# ===========================
+# .NET / C# general
+# ===========================
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.ide
+*.dbmdl
+*.jfm
+*.class
+*.cache
+*.config
+
+# ===========================
+# Visual Studio Code
+# ===========================
+.vscode/
+.history/
+
+# ===========================
+# Rider
+# ===========================
+.idea/
+
+# ===========================
+# macOS specific
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+*.lock
+ehthumbs.db
+Thumbs.db
+
+# ===========================
+# NuGet
+# ===========================
+*.nupkg
+packages/
+.nuget/
+
+# ===========================
+# EF Core / SQLite
+# ===========================
+app.db
+Data/*.db
+
+# ===========================
+# Others
+# ===========================
+*.log
+*.bak
+*.backup
+*.pid
+*.seed
+
+# ===========================
+# Optional: node/npm if any front-end
+# ===========================
+node_modules/
+dist/
+wwwroot/dist/
